@@ -1,4 +1,4 @@
-# Scam-detection-of-Craigslist-post
+# Scam detection of Craigslist post
 
 The main objective of this project is to help product managers at Craigslist achieve the goal of user satisfaction. 
 To achieve this goal, it is necessary to flag a suspicious ad listing on the website and take necessary action against it. Our approach constitutes a mix of primary and secondary research for feature selection model formation for detecting scam posts.  
